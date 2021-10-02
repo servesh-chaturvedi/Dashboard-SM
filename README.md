@@ -15,5 +15,9 @@ This is a solution to the [Social media dashboard with theme switcher challenge 
 
 **Server:** Node with parcel bundler
 
+## Live Demo
+
+Checkout the live site [here](https://dashboard-fem.netlify.app) 😇
+
 ## Acknowledgments
 Would like to express gratitude to [Jessica](https://github.com/thecodercoder) for her youtube video explaining the toggle functionality.
